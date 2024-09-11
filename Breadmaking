@@ -12,6 +12,7 @@ public:
     }
 };
 
+//Adding class HeatingElement
 class HeatingElement{
 public:    
     void bake(int temperature, int minutes){
