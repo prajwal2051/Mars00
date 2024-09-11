@@ -22,6 +22,7 @@ public:
     }
 };
 
+//Adding class Display
 class Display{
 public:    
     void showStatus(const string& status){
