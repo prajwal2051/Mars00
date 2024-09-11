@@ -2,6 +2,7 @@
 #include <thread>
 using namespace std;
 
+//Adding class Mixer
 class Mixer{
 public:
     void kneadDough(int minutes){
